@@ -8,7 +8,6 @@ public class MainImpl {
      * @param args arguments
      */
         public static void main(String[] args) {
-
             int choice, key;
 
             HashMap h = new HashMap(7);
